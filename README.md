@@ -5,8 +5,8 @@ This program implements Shamir's Secret Sharing algorithm to find the constant t
 
 ## Usage
 ```bash
-node solution.js testcase1.json
-node solution.js testcase2.json
+node shamirsecret.js testcase1.json
+node shamirsecret.js testcase2.json
 ```
 
 ## Output
